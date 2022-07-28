@@ -1,0 +1,2 @@
+class ArgumentNotFoundException(Exception):
+	pass
